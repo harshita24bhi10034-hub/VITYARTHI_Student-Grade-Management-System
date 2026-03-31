@@ -1,0 +1,6 @@
+CourseCode,CourseName,Credits,MaxCapacity,EnrolledStudents
+CS101,Introduction to Programming,4,50,S001;S002;S003;S004
+MATH201,Calculus II,4,40,S001;S002;S004
+HIST101,World History,3,30,S003;S005
+PHYS201,Physics II,4,30,S002;S004
+ENG101,English Composition,3,35,S001;S003;S005
