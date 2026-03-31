@@ -1,0 +1,6 @@
+StudentID,Name,Email,EnrollmentDate,EnrolledCourses
+S005,Emma Davis,emma.davis@example.com,2024-01-17,ENG101;HIST101
+S003,Carol Williams,carol.williams@example.com,2024-01-16,CS101;ENG101;HIST101
+S004,David Brown,david.brown@example.com,2024-01-16,MATH201;PHYS201;CS101
+S001,Alice Johnson,alice.johnson@example.com,2024-01-15,CS101;MATH201;ENG101
+S002,Bob Smith,bob.smith@example.com,2024-01-15,CS101;PHYS201;MATH201
